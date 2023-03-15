@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 SQL Course with the objective to improve my data analysis skills. 
-This course, taught by Walter Shields, provides me with essential skills for data analysts like me and application developers to efficiently handle and comprehend massive databases using SQL. <br/><br/>I gained a comprehensive understanding of database structure, SQL query syntax, and optimal scenarios for their application. The course prepares professionals like myself for success in the data-driven present and future.<br/><br/>
+The course taught by Walter Shields, provides me with essential skills for data analysts like me and application developers to efficiently handle and comprehend massive databases using SQL. <br/><br/>I gained a comprehensive understanding of database structure, SQL query syntax, and optimal scenarios for their application. The course prepares professionals like myself for success in the data-driven present and future.<br/><br/>
 At the end of the course we had the challenge to figure out using SQL who is the employee stealing money from WSDA Music Company. Below are some images of just that.
 <br />
 
